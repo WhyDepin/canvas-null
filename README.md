@@ -9,4 +9,5 @@ npm i canvas-null
 ```
 
 # Thanks
-* [`Knights-canvas`](https://github.com/squad-404)
+* [`Knights-canvas/squad-404`](https://github.com/squad-404)
+* [`Canvas-hikki/hardianto`](https://github.com/hardianto-cpu)

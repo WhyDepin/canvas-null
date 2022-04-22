@@ -1,5 +1,3 @@
-# Nullzx-Canvas
-
 ```bash
 • Recode from Knights-canvas
 • Star & Fork This Repository

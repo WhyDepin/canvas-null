@@ -11,4 +11,4 @@ npm i canvas-null
 ```
 
 # Thanks
-* [`Knights-canvas`](https://github.com/adiwajshing/Baileys)
+* [`Knights-canvas`](https://github.com/squad-404)
